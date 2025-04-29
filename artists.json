@@ -1,0 +1,265 @@
+[
+  {
+    "id": "1",
+    "name": "The Weeknd",
+    "verified": "true",
+    "profilePic": "https://my-landing-7dx.pages.dev/The%20weeknd.jpg",
+    "backgroundPic": "https://my-first-app-2xk.pages.dev/34.jpg",
+    "description": "The Weeknd is a Canadian singer, songwriter, and record producer known for his dark, moody style of R&B music.",
+    "socials": {
+      "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=BZWyhD7JQtmlfsQP225bxQ",
+      "instagram": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=BZWyhD7JQtmlfsQP225bxQ",
+      "facebook": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=BZWyhD7JQtmlfsQP225bxQ",
+      "youtube": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=BZWyhD7JQtmlfsQP225bxQ"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Arijit Singh",
+    "verified": "true",
+    "profilePic": "https://my-landing-7dx.pages.dev/Arijit%20Singh.jpg",
+    "backgroundPic": "https://my-first-app-2xk.pages.dev/8.jpg",
+    "description": "Legendary Indian playback singer known for his contribution to Bollywood music",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "3",
+    "name": "Rahat Fateh Ali Khan",
+    "verified": "true",
+    "profilePic": "https://my-landing-7dx.pages.dev/Rahat%20Fateh%20Ali%20Khan.jpg",
+    "backgroundPic": "https://my-first-app-2xk.pages.dev/52.jpg",
+    "description": "American singer-songwriter known for her unique vocal style and innovative pop music",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "4",
+    "name": "Zubeen Garg",
+    "profilePic": "https://my-landing-7dx.pages.dev/Zubeen%20Garg.jpg",
+    "backgroundPic": "https://my-first-app-2xk.pages.dev/30.jpg",
+    "description": "American singer-songwriter known for her narrative songwriting and musical versatility",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "5",
+    "name": "Drake",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Canadian rapper, singer, and actor dominating the hip-hop scene",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "6",
+    "name": "Ed Sheeran",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "British singer-songwriter known for his acoustic pop style",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "7",
+    "name": "Ariana Grande",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American singer and actress known for her powerful vocal range",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "8",
+    "name": "Bad Bunny",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Puerto Rican rapper and singer leading the Latin trap movement",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": "BTS",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "South Korean boy band revolutionizing K-pop globally",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "Dua Lipa",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "British singer-songwriter known for her disco-pop sound",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "Post Malone",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American rapper and singer known for blending genres",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "Justin Bieber",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Canadian pop singer who rose to fame as a teenage sensation",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Lady Gaga",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American singer-songwriter known for her powerful vocals and artistic vision",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": "Kendrick Lamar",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American rapper known for his profound lyricism and social commentary",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "Adele",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "British singer-songwriter known for her powerful ballads",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": "Harry Styles",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "British singer-songwriter and actor, former member of One Direction",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "17",
+    "name": "Beyoncé",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American singer-songwriter and cultural icon",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "18",
+    "name": "Travis Scott",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American rapper and producer known for his psychedelic sound",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "19",
+    "name": "Imagine Dragons",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "American rock band known for their alternative and pop rock sound",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "20",
+    "name": "Rihanna",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Barbadian singer, entrepreneur, and cultural icon",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  }
+]
