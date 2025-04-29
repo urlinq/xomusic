@@ -1,0 +1,277 @@
+[
+  {
+    "id": "1",
+    "name": "Trending Songs",
+    "creator": "Dus Mamud",
+    "profilePic": "https://my-landing-page-lhd.pages.dev/trending-1.png",
+    "backgroundPic": "https://i.pinimg.com/736x/8b/75/d1/8b75d1a1e83953fc0fb814c2104e4823.jpg",
+    "description": "A curated collection of the hottest tracks across all genres",
+    "socials": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=BZWyhD7JQtmlfsQP225bxQ"
+  },
+  {
+    "id": "2",
+    "name": "Indie Discoveries",
+    "creator": "Sarah Chen",
+    "profilePic": "https://my-landing-7dx.pages.dev/00s%20Bollywood%20Romance.jpg",
+    "backgroundPic": "https://i.pinimg.com/736x/fe/b5/d8/feb5d8b03e3892f486478f08a1bc21df.jpg",
+    "description": "Underground indie artists you need to hear",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "3",
+    "name": "Electronic",
+    "creator": "Max Weber",
+    "profilePic": "https://my-landing-7dx.pages.dev/Bollywood%20Essentials.jpg",
+    "backgroundPic": "https://i.pinimg.com/736x/a9/3f/66/a93f665f62305aa9c27333678c1337e6.jpg",
+    "description": "Best electronic music from around the world",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "https://www.instagram.com/dsha",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "4",
+    "name": "Jazz Classics",
+    "creator": "Robert Miles",
+    "profilePic": "https://my-landing-7dx.pages.dev/I-Pop%20Icons.jpg",
+    "backgroundPic": "https://i.pinimg.com/736x/b4/21/3a/b4213a95672fb8d2733b7b8bfa1cdde3.jpg",
+    "description": "Timeless jazz performances from legendary artists",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "5",
+    "name": "Assamese Hits",
+    "creator": "YT Music",
+    "profilePic": "https://my-landing-7dx.pages.dev/Zubeen%20Garg.jpg",
+    "backgroundPic": "https://i.pinimg.com/736x/5d/80/ac/5d80ac082a98b146b82799391b8639e2.jpg",
+    "description": "Essential hip hop tracks you can't miss",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "6",
+    "name": "Rock Anthems",
+    "creator": "Lisa Anderson",
+    "profilePic": "https://my-landing-7dx.pages.dev/Ishq%20Sufiyana.jpg",
+    "backgroundPic": "",
+    "description": "Greatest rock hits of all time",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "7",
+    "name": "Chill Vibes",
+    "creator": "Alex Turner",
+    "profilePic": "https://my-landing-7dx.pages.dev/Pakistani%20Pop.jpg",
+    "backgroundPic": "",
+    "description": "Relaxing tunes for your downtime",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "8",
+    "name": "Latin Hits",
+    "creator": "Carlos Rodriguez",
+    "profilePic": "https://my-landing-7dx.pages.dev/Bollywood%20Central.jpg",
+    "backgroundPic": "",
+    "description": "Hottest Latin music tracks and artists",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": "Classical Collection",
+    "creator": "Emma Wilson",
+    "profilePic": "https://my-landing-7dx.pages.dev/'00s%20Bollywood.jpg",
+    "backgroundPic": "",
+    "description": "Beautiful classical music masterpieces",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "Pop Hits",
+    "creator": "Jennifer Lopez",
+    "profilePic": "https://my-landing-7dx.pages.dev/Werk%20to%20Work.jpg",
+    "backgroundPic": "",
+    "description": "Latest and greatest in pop music",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "Country Roads",
+    "creator": "Billy Ray",
+    "profilePic": "https://my-landing-7dx.pages.dev/Tollywood%20Pearls.jpg",
+    "backgroundPic": "",
+    "description": "Best country music hits and discoveries",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "R&B Soul",
+    "creator": "James Brown",
+    "profilePic": "https://my-landing-7dx.pages.dev/12.jpg",
+    "backgroundPic": "",
+    "description": "Soulful R&B tracks that touch your heart",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Metal Mayhem",
+    "creator": "Thor Anderson",
+    "profilePic": "https://my-landing-7dx.pages.dev/10.jpg",
+    "backgroundPic": "",
+    "description": "Heavy metal classics and new releases",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": "Folk Tales",
+    "creator": "Mary Johnson",
+    "profilePic": "https://my-landing-7dx.pages.dev/Presenting%20Emraan%20Hashmi.jpg",
+    "backgroundPic": "",
+    "description": "Traditional and modern folk music collection",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "Reggae Vibes",
+    "creator": "Bob Wilson",
+    "profilePic": "https://my-landing-7dx.pages.dev/Bhojpuri%20Jabra%20Hits.jpg",
+    "backgroundPic": "",
+    "description": "Authentic reggae music from Jamaica and beyond",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": "Asian Beats",
+    "creator": "Kim Lee",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Top Asian music hits and trending songs",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "17",
+    "name": "Blues Corner",
+    "creator": "Ray Charles Jr",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Classic and contemporary blues music",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "18",
+    "name": "Gospel Glory",
+    "creator": "Maria Smith",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Uplifting gospel music collection",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "19",
+    "name": "Alternative Rock",
+    "creator": "Dave Grohl",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Best alternative rock tracks and bands",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": "20",
+    "name": "Punk Revolution",
+    "creator": "Johnny Rotten",
+    "profilePic": "",
+    "backgroundPic": "",
+    "description": "Classic punk rock and new wave hits",
+    "socials": {
+      "spotify": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": ""
+    }
+  }
+]
