@@ -30,7 +30,7 @@
   {
     "id": "3",
     "name": "Rahat Fateh Ali Khan",
-    "verified": "true",
+    "verified": "yes",
     "profilePic": "https://my-landing-7dx.pages.dev/Rahat%20Fateh%20Ali%20Khan.jpg",
     "backgroundPic": "https://my-first-app-2xk.pages.dev/52.jpg",
     "description": "American singer-songwriter known for her unique vocal style and innovative pop music",
@@ -44,6 +44,7 @@
   {
     "id": "4",
     "name": "Zubeen Garg",
+    "verified": "yes",
     "profilePic": "https://my-landing-7dx.pages.dev/Zubeen%20Garg.jpg",
     "backgroundPic": "https://my-first-app-2xk.pages.dev/30.jpg",
     "description": "American singer-songwriter known for her narrative songwriting and musical versatility",
@@ -109,6 +110,7 @@
   {
     "id": "9",
     "name": "BTS",
+    "verified": "yes",
     "profilePic": "",
     "backgroundPic": "",
     "description": "South Korean boy band revolutionizing K-pop globally",
