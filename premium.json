@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "email": "dusmamud@gmail.com",
+    "expiry": "25:01:2026",
+    "membershipType": "monthly",
+    "membershipId": "AGS543"
+  },
+  {
+     "id": 2,
+    "email": "dus@mamud.com",
+    "expiry": "25:01:2026",
+    "membershipType": "yearly",
+    "membershipId": "AGS543"
+  },
+  {
+     "id": 3,
+    "email": "dusmicrosoft@gmail.com",
+    "expiry": "25:01:2026",
+    "membershipType": "yearly",
+    "membershipId": "AGS543"
+  },
+  {
+     "id": 4,
+    "email": "sanXarab19@gmail.com",
+    "expiry": "25:01:2026",
+    "membershipType": "yearly",
+    "membershipId": "AGS543"
+  }
+]
