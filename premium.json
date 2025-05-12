@@ -9,14 +9,14 @@
   {
      "id": 2,
     "email": "dus@mamud.com",
-    "expiry": "25:01:2025",
+    "expiry": "25:01:2026",
     "membershipType": "yearly",
     "membershipId": "AGV563"
   },
   {
      "id": 3,
     "email": "dusmicrosoft@gmail.com",
-    "expiry": "25:01:2025",
+    "expiry": "25:01:2026",
     "membershipType": "yearly",
     "membershipId": "AGS543"
   },
@@ -30,7 +30,7 @@
   {
      "id": 5,
     "email": "dusxjio@gmail.com",
-    "expiry": "25:07:2025",
+    "expiry": "25:07:2026",
     "membershipType": "monthly",
     "membershipId": "DUS321"
   }
